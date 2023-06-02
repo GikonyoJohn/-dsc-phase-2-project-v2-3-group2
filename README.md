@@ -1,4 +1,4 @@
-# Multiple Linear Regression: Predicting King County, WA, Housing Prices
+# Multiple Linear Regression
 
 ![Seattle](Images/Seattle.png)
 

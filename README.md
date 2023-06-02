@@ -20,7 +20,7 @@ Data was cleaned through the following steps:
 
 # EXPLORATORY DATA ANALYSIS
 
-![EDA](Images/eda.png)
+![EDA](Images/CORR2.png)
 
 According to this heatmap, there are some variables which are highly correlated which will be considered in linear regression
 
@@ -41,7 +41,7 @@ After log transformation of the dependent variables our residuals are much close
 
 Conclusion: There are several features that seem to have multicollinearity. Rather than just dropping some of these features, let's first look at the variance inflation factor to understand the severity of the multicollinearity.
 
-![Correlation](Images/CORR2.png)
+![Correlation](Images/eda.png)
 
 ### 4. Model 4: Dropping Insignificant Features
 Conclusion: Our adjusted R squared still stays the same at .740 and all features are significant. Next, we will further refine our data by removing additional, potential outliers.

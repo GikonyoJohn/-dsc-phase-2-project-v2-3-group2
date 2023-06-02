@@ -5,7 +5,7 @@
 
 The project aims to help the real estate agencies and  homeowners in making informed decisions about home selling and buying by utilizing the King County House Sales dataset. By analyzing and modeling the dataset, we can determine the influence of various factors on house prices, ultimately providing valuable insights to real estate agencies and homeowners regarding the potential change  in the estimated value of their homes through different  choices.
 
-# Objectives
+# OBJECTIVES
 
 To understand which factors determines the price of a home.
 To understand how square feet living affect the value of a home.

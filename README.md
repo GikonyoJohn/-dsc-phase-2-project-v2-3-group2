@@ -44,8 +44,6 @@ Conclusion: There are several features that seem to have multicollinearity. Rath
 ### 4. Model 4: Dropping Insignificant Features
 Conclusion: Our adjusted R squared still stays the same at .740 and all features are significant. Next, we will further refine our data by removing additional, potential outliers.
 
-![model4](Images/model4.png)
-
 ### 5. Model 5: Standardizing Features
 
 Interpretation: Since the p-value (0.0024) is less than the significance level (e.g., 0.05), we can reject the null hypothesis. This suggests that there is significant evidence of heteroscedasticity in the data. It implies that the variance of the errors is not constant across the range of the predictors.

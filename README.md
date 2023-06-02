@@ -34,7 +34,7 @@ Our first model has an adjusted r-squared of .660. All features with p_values th
 ![baseline](baselineModel.png)
 
 ### 2. Model 2: with log transformed y variables
-After log transformation of the dependent variables our residuals are much closer to a normal distribution
+After log transformation of the dependent variables our residuals are much closer to a normal distribution.
 
 
 ### 3. Model 3: Dealing with Multicollinearity
@@ -44,7 +44,7 @@ Conclusion: There are several features that seem to have multicollinearity. Rath
 ![Correlation](CORR2.png)
 
 ### 4. Model 4: Dropping Insignificant Features
-Conclusion: Our adjusted R squared still stays the same at .740 and all features are significant. Next, we will further refine our data by removing additional, potential outliers
+Conclusion: Our adjusted R squared still stays the same at .740 and all features are significant. Next, we will further refine our data by removing additional, potential outliers.
 ![model4](model4.png)
 
 ### 5. Model 5: Standardizing Features

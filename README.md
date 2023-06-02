@@ -58,13 +58,13 @@ In summary,F statistic and p-value, there is evidence of heteroscedasticity in t
 # Conclusion
 
 Analyzing the models the following conclusion can be made:
-An increase with one bedroom decreases the house sale by $ 0.002.
-An increase with one bathroom increases the house price by $ 0.0725
-An increase in Square footage of the home by one square foot increases the price of the house by $ 0.0002
-An increase in Square footage of the by one square feet decreases the house price by $ 4.287e-07
-An increase in floors by one increases price by $0.0657
-An increase in grade rating by one increases the price by $ 0.1609
-An increase in one square foot from basement decrease price by $ -5.477e-05
-An increase in Square footage of interior housing living space for the nearest 15 neighbors by one foot increase prices by $ 0.0001
-There is no significant increase/decrease in the house price with the condition of the house
-Presence of waterfront decreases the house price by $ -9.5516
+An increase with one bedroom decreases the house sale by $ 0.002;
+An increase with one bathroom increases the house price by $ 0.0725;
+An increase in Square footage of the home by one square foot increases the price of the house by $ 0.0002;
+An increase in Square footage of the by one square feet decreases the house price by $ 4.287e-07;
+An increase in floors by one increases price by $0.0657;
+An increase in grade rating by one increases the price by $ 0.1609;
+An increase in one square foot from basement decrease price by $ -5.477e-05;
+An increase in Square footage of interior housing living space for the nearest 15 neighbors by one foot increase prices by $ 0.0001;
+There is no significant increase/decrease in the house price with the condition of the house;
+Presence of waterfront decreases the house price by $ -9.5516.

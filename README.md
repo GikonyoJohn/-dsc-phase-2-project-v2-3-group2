@@ -20,7 +20,7 @@ Data was cleaned through the following steps:
 
 # EXPLORATORY DATA ANALYSIS
 
-![EDA](eda.png)
+![EDA](Images/eda.png)
 
 According to this heatmap, there are some variables which are highly correlated which will be considered in linear regression
 
@@ -31,7 +31,7 @@ Below is a list of all models built and general description of changes between e
 ### 1. Model 1: Baseline model
 Our first model has an adjusted r-squared of .660. All features with p_values that are significant, let's check our residuals.
 
-![baseline](baselineModel.png)
+![baseline](Images/baselineModel.png)
 
 ### 2. Model 2: with log transformed y variables
 After log transformation of the dependent variables our residuals are much closer to a normal distribution.
@@ -41,11 +41,11 @@ After log transformation of the dependent variables our residuals are much close
 
 Conclusion: There are several features that seem to have multicollinearity. Rather than just dropping some of these features, let's first look at the variance inflation factor to understand the severity of the multicollinearity.
 
-![Correlation](CORR2.png)
+![Correlation](Images/CORR2.png)
 
 ### 4. Model 4: Dropping Insignificant Features
 Conclusion: Our adjusted R squared still stays the same at .740 and all features are significant. Next, we will further refine our data by removing additional, potential outliers.
-![model4](model4.png)
+![model4](Images/model4.png)
 
 ### 5. Model 5: Standardizing Features
 
@@ -53,7 +53,7 @@ Interpretation: Since the p-value (0.0024) is less than the significance level (
 
 In summary,F statistic and p-value, there is evidence of heteroscedasticity in the data, indicating that the assumption of constant error variance may not hold.
 
-![Finalmodel](FinalModel.png)
+![Finalmodel](Images/FinalModel.png)
 
 # Conclusion
 
